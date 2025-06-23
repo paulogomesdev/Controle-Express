@@ -71,9 +71,8 @@ Essa organização permite que você identifique rapidamente as prioridades de a
 
 ### **Passo 7: Comentar no Produto** 
 
-* ### Toque na área de comentários na tela de detalhes para visualizar os comentários existentes.
-
-* ### No campo de mensagem, digite seu comentário estratégico.
+* Toque na área de comentários na tela de detalhes para visualizar os comentários existentes.
+* No campo de mensagem, digite seu comentário estratégico.
 
 ### **Passo 8: Acesso às Outras Funcionalidades**  
 
