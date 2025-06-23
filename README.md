@@ -15,6 +15,9 @@ Com o **Controle Express**, você poderá:
 
 Essa solução integra as principais áreas de atuação – armazenamento (depósitos), conferentes (recebimentos) e a equipe de piso de loja (líderes e base) – permitindo um alcance de até **98%** na resolução dos problemas de vencimento.
 
+![image](https://github.com/user-attachments/assets/064fcd86-a8be-43dc-99b0-008754a9a60f)
+
+
 ##            **Como Utilizar**
 
 ### **Passo 1: Instalação e Cadastro**
@@ -26,6 +29,9 @@ Essa solução integra as principais áreas de atuação – armazenamento (dep�
 
 * Após o cadastro, **faça o login** utilizando seu e-mail e senha.  
 * Caso opte pela funcionalidade "Lembrar-me", seus dados serão salvos para facilitar os próximos acessos.
+
+![image](https://github.com/user-attachments/assets/5ac69774-1ac0-4c6f-917c-a888b0cadb80)
+
 
 ###                              **Passo 3: Iniciar a Coleta de Produtos**
 
@@ -46,9 +52,8 @@ Essa solução integra as principais áreas de atuação – armazenamento (dep�
 * Após preencher os dados, clique em **"Salvar Produto"**.  
 * O produto será armazenado e classificado automaticamente pelo app com base na data de validade.
 
-  
+![image](https://github.com/user-attachments/assets/fa3d976e-aba5-4b60-bd7a-04ef36d585f3)
 
-  1
 
 ### **Passo 6: Visualização dos Produtos Coletados**
 
@@ -61,19 +66,8 @@ Essa solução integra as principais áreas de atuação – armazenamento (dep�
 
 Essa organização permite que você identifique rapidamente as prioridades de ação.
 
-### 
+![image](https://github.com/user-attachments/assets/7ae41339-ecf3-498f-adf3-365959e58919)
 
-### 
-
-### 
-
-### 
-
-### 
-
-### 
-
-### 
 
 ### **Passo 7: Comentar no Produto** 
 
@@ -90,7 +84,10 @@ Essa organização permite que você identifique rapidamente as prioridades de a
 * **Autenticação de Usuários:**  
   Gerencie o acesso dos usuários ao sistema. Essa funcionalidade permite a aprovação de novos cadastros e o monitoramento do status de acesso (online/offline) dos usuários.
 
-**As****sinaturas e Responsabilidades**
+![image](https://github.com/user-attachments/assets/5778d12f-453c-4082-99d2-42ee111c3e30)
+
+
+**Responsabilidades**
 
 * **Empresa:** J F SA DOS SANTOS & CIA LTDA  
 * **Ideia Inicial:** Daniel Silva e Pedro Paulo   
