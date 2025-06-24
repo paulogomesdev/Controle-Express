@@ -89,8 +89,7 @@ Essa organização permite que você identifique rapidamente as prioridades de a
 **Responsabilidades**
 
 * **Empresa:** J F SA DOS SANTOS & CIA LTDA  
-* **Ideia Inicial:** Daniel Silva e Pedro Paulo   
-* **Desenvolvedor:** Pedro Paulo Gomes de Souza  
-* **Responsável Técnico:** Daniel Silva  
+* **Ideia Inicial:** Daniel Silva e Pedro Paulo Gomes de Souza
+* **Desenvolvedor:** Pedro Paulo Gomes de Souza
 * **Participantes:** PDL, Plano de Desenvolvimento de Liderança
 
